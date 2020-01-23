@@ -78,5 +78,9 @@ namespace Inclassparticipation
         {
             return val1-val2;
         }
+       /// <summary>
+       /// connection string is given
+       /// </summary>
+       
     }
 }
